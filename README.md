@@ -25,6 +25,7 @@ Here are some ideas to get you started:
      
 - 📫 How to reach me: 
     * [LinkedIn](https://www.linkedin.com/in/sujata-mishra-2ab834168/)
+    * [Twitter](https://twitter.com/SujataM27610308)
     
 - 😄 Pronouns: She/Her
 
