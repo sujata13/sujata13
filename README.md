@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     * Backend Development
     * ... in short anything related to Web Development
     * Python
-    * Machine Learning                              ![Sumit Thakur's github stats](https://github-readme-stats.vercel.app/api?username=sumitt1080&show_icons=true&theme=dracula)
+    * Machine Learning                              <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitt1080&layout=compact" alt="sumitt1080" /></br>
                           
 - 🤔 **I’m looking for help with** CP 
 
