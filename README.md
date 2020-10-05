@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 **I’m currently learning** to improve my front-end skills and advance JS
 - 👯 **I’m looking to collaborate on** 
     * Front-end Development
-    * JavaScript                                    <img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitt1080&show_icons=true&theme=dracula" alt="sumitt1080" /></br>
+    * JavaScript                                    <img align="right" src="https://github-readme-stats.vercel.app/api?username=sujata13&show_icons=true&theme=dracula" alt="sumitt1080" /></br>
     * Java
     * Backend Development
     * ... in short anything related to Web Development
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
                           
 - 🤔 **I’m looking for help with** CP 
 
-- 💬 **Ask me about** Anything that I can help you with                  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitt1080&layout=compact" alt="sumitt1080" /></br>
+- 💬 **Ask me about** Anything that I can help you with                  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujata13&layout=compact" alt="sujata13" /></br>
      
 - 📫 How to reach me: 
     * [LinkedIn](https://www.linkedin.com/in/sujata-mishra-2ab834168/)
