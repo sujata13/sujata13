@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+### Here are some ideas to get you started:
 - 🔭 I’m currently working on **Full-Stack Development** projects.
 - 🌱 **I’m currently learning** to improve my front-end skills and advance JS
 - 👯 **I’m looking to collaborate on** 
@@ -30,8 +31,7 @@ Here are some ideas to get you started:
 - 💬 **Ask me about** Anything that I can help you with                  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujata13&layout=compact" alt="sujata13" /></br>
      
 - 📫 How to reach me: 
-    * [LinkedIn](https://www.linkedin.com/in/sujata-mishra-2ab834168/)
-    * [Twitter](https://twitter.com/SujataM27610308)
+    * <a href="https://www.linkedin.com/in/sujata-mishra-2ab834168/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://twitter.com/SujataM27610308"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
     
 - 😄 Pronouns: She/Her
 
