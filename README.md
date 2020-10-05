@@ -18,8 +18,8 @@ Here are some ideas to get you started:
     * Backend Development
     * ... in short anything related to Web Development
     * Python
-    * Machine Learning
-    
+    * Machine Learning                              ![Sumit Thakur's github stats](https://github-readme-stats.vercel.app/api?username=sumitt1080&show_icons=true&theme=dracula)
+                          
 - 🤔 **I’m looking for help with** CP 
 
 - 💬 **Ask me about** Anything that I can help you with
