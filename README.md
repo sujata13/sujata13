@@ -1,5 +1,5 @@
 # Hi 👐 , I'm Sujata <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img  align='right' src="https://raw.githubusercontent.com/sumitt1080/sumitt1080/master/Github.jpg">
-</br>
+
 [![HitCount](http://hits.dwyl.com/sujata13/sujata13.svg)](http://hits.dwyl.com/sujata13/sujata13)
 
 ✨I am a Full Stack Developer from India
