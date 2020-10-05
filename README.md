@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 **I’m currently learning** to improve my front-end skills and advance JS
 - 👯 **I’m looking to collaborate on** 
     * Front-end Development
-    * JavaScript
+    * JavaScript                                    <img align="right" src="https://github-readme-stats.vercel.app/api?username=sumitt1080&show_icons=true&theme=dracula" alt="sumitt1080" /></br>
     * Java
     * Backend Development
     * ... in short anything related to Web Development
