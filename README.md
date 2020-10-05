@@ -18,11 +18,11 @@ Here are some ideas to get you started:
     * Backend Development
     * ... in short anything related to Web Development
     * Python
-    * Machine Learning                              <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitt1080&layout=compact" alt="sumitt1080" /></br>
+    * Machine Learning                              
                           
 - 🤔 **I’m looking for help with** CP 
 
-- 💬 **Ask me about** Anything that I can help you with
+- 💬 **Ask me about** Anything that I can help you with                  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitt1080&layout=compact" alt="sumitt1080" /></br>
      
 - 📫 How to reach me: 
     * [LinkedIn](https://www.linkedin.com/in/sujata-mishra-2ab834168/)
