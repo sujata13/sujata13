@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 💬 **Ask me about** Anything that I can help you with                  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujata13&layout=compact" alt="sujata13" /></br>
      
 - 📫 How to reach me: </br></br>
-       <a href="https://www.linkedin.com/in/sujata-mishra-2ab834168/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://twitter.com/SujataM27610308"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
+       <a href="https://www.linkedin.com/in/sujata-mishra-2ab834168/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> <a href="https://twitter.com/_MishraSujata"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
     
 - 😄 Pronouns: She/Her
 
