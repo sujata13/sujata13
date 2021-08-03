@@ -1,6 +1,4 @@
-# Hi 👐 , I'm Sujata <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> <img  align='right' src="https://raw.githubusercontent.com/sumitt1080/sujata13/master/tuxpi.com.1601877354.jpg">
-
-[![HitCount](http://hits.dwyl.com/sujata13/sujata13.svg)](http://hits.dwyl.com/sujata13/sujata13)
+# Hi 👐 , I'm Sujata <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> 
 
 ✨I am a Full Stack Developer from India
 
