@@ -1,5 +1,4 @@
-# Hi 👐 , I'm Sujata <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> 
-
+# Hi 👐 , I'm Sujata
 ✨I am a Full Stack Developer from India
 
 <!--
