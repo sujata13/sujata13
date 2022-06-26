@@ -1,4 +1,3 @@
-# Hi 👐 , I'm Sujata
 ✨I am a Full Stack Developer from India
 
 <!--
